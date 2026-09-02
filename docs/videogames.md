@@ -32,7 +32,9 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 <!-- Agregar descripción del género y link a Wikipedia -->
 
-- Tetris
+is a puzzle video game created by Alexey Pajitnov, a Soviet software engineer, in the mid-1980s. In Tetris, falling pieces consisting of four connected blocks, known as tetrominoes, must be sorted into a pile. 
+[Wikipedia](https://en.wikipedia.org/wiki/Tetris)
+- [Tetris](./puzzle/tetris.md).
 
 ## Sandbox
 
